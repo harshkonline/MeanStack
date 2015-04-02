@@ -1,5 +1,5 @@
 # MEAN Stack RESTful API Application - Contact List App
-<h2>MEAN Stack RESTful API Tutorial - Contact List App</h2>
+
 
 This repo contains the code for a RESTful API Contact List App that was built using the MEAN stack:
 
