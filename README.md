@@ -10,7 +10,7 @@ This repo contains the code for a RESTful API Contact List App that was built us
 <li>NodeJS</li>
 </ul>
 
-Make sure MongoDB is running, and then run the code with 
+Make sure MongoDB is running, and then go to source code directory and run the code with 
 
     node server
 
@@ -18,7 +18,6 @@ You might see a message that says,
 
     Error: Module did not self-register.]
     js-bson: Failed to load c++ bson extension, using pure JS version
-    
-Don't worry about this; the code will still work.
+Simply ignore that. 
 
 
