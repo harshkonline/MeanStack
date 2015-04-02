@@ -9,7 +9,7 @@ This repo contains the code for a RESTful API Contact List App that was built us
 <li>AngularJS</li>
 <li>NodeJS</li>
 </ul>
-
+You can add, remove and update contacts in this single page application. 
 Make sure MongoDB is running, and then go to source code directory and run the code with 
 
     node server
